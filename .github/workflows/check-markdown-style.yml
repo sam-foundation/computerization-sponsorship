@@ -1,0 +1,13 @@
+name: CI
+on: [push]
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-ruby@v1
+      - name: Setup Markdown Lint
+        run: gem install mdl
+      - name: Run Markdown Lint
+        run: mdl --style style.rb .
