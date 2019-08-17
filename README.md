@@ -15,7 +15,6 @@ GPG signed commit.
   benefits can only be claimed by enforcing certain good engineering practices.
 - [`APPROVED_REIMBURSEMENT_LIST.md`](./APPROVED_REIMBURSEMENT_LIST.md) specifies a list of eligible
   operating cost reimbursements for Computerization.
-
-## Signatures
-
-- Sponsor: Sam Zhou
+- [`SIGNATURE`](./SIGNATURE) lists the GitHub IDs of people who signed the document. Signing in that
+  file expresses your approval of this agreement and it is a prerequisite to make modifications to
+  other files.

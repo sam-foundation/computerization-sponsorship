@@ -1,2 +1,5 @@
 # System Files
 .DS_Store
+
+# Mypy Cache
+.mypy_cache
