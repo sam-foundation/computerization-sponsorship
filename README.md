@@ -4,8 +4,8 @@ This is a public GitHub repository to host the document specifying the scope and
 Zhou’s sponsorship for Computerization.
 
 Everything specified in the repository's documents will only have legal effect if the president of
-Computerization and Sam both add their signature to the `Signature` section of this `README` via a
-GPG signed commit.
+Computerization and Sam both add their GitHub usernames to the `SIGNATURE` file via a GPG signed
+commit.
 
 ## Introduction
 
