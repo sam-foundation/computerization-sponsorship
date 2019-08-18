@@ -4,8 +4,8 @@ This is a public GitHub repository to host the document specifying the scope and
 Zhou’s sponsorship for Computerization.
 
 Everything specified in the repository's documents will only have legal effect if the president of
-Computerization and Sam both add their signature to the `Signature` section of this `README` via a
-GPG signed commit.
+Computerization and Sam both add their GitHub usernames to the `SIGNATURE` file via a GPG signed
+commit.
 
 ## Introduction
 
@@ -15,7 +15,6 @@ GPG signed commit.
   benefits can only be claimed by enforcing certain good engineering practices.
 - [`APPROVED_REIMBURSEMENT_LIST.md`](./APPROVED_REIMBURSEMENT_LIST.md) specifies a list of eligible
   operating cost reimbursements for Computerization.
-
-## Signatures
-
-- Sponsor: Sam Zhou
+- [`SIGNATURE`](./SIGNATURE) lists the GitHub IDs of people who signed the document. Signing in that
+  file expresses your approval of this agreement and it is a prerequisite to make modifications to
+  other files.

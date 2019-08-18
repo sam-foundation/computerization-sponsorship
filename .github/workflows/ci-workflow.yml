@@ -11,3 +11,12 @@ jobs:
         run: gem install mdl
       - name: Run Markdown Lint
         run: mdl --style style.rb .
+  signature-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-python@v1
+        with:
+          python-version: '3.7'
+      - name: Check Signature
+        run: python3 scripts/check-signed.py
