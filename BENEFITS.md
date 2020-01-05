@@ -72,7 +72,8 @@ playing with Kubernetes clusters in the cloud.
 
 #### Better Infrastructure Encouragement Fund
 
-Computerization will receive $100 amount of fund for all completed items below:
+Computerization will receive $100 amount of fund for all completed items below. If they are partially
+enforced, then Computerization will receive $40.
 
 - Linter/auto formatter has been correctly set up to enforce code style.
 - Members have their GitHub account two-factor authenticated.
