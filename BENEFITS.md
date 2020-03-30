@@ -57,6 +57,22 @@ may include architecture, static typing, technical stack, development best pract
 Sam will not answer questions about club management issues, like how to deal with the school’s
 administrator, unmotivated members, low morale, etc.
 
+### Personal Website Cost Reimbursement
+
+All members of Computerization, past or present, will receive full reimbursement of their personal
+websites cost until the end of their college freshmen year, given that the following requirements
+are satisfied:
+
+1. The personal website must be open sourced on GitHub with one of the licenses listed on the
+   [Choose A License website](https://choosealicense.com/appendix/).
+2. The personal website must be relatively complete. For example, a website that only contains
+   'Hello world!' is not considered as complete.
+3. The personal website backend must not run crazily expensive computations
+   (e.g. mining cryptocurrencies).
+4. The personal website must be deployed on machines with reasonable hardware capacity. For
+   example, a single-page static website deployed to 96-core CPU, 1TB memory and 256TB SSD will not
+   be considered as reasonable.
+
 ### Development/Deployment Cost Reimbursement
 
 All allowed items in [`APPROVED_REIMBURSEMENT_LIST.md`](./APPROVED_REIMBURSEMENT_LIST.md) will be
