@@ -9,3 +9,4 @@
 
 - Domain name cost.
 - Up to $500 of server cost on cloud computing platforms.
+- Hardwares for machine learning

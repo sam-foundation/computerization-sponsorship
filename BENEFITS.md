@@ -26,19 +26,18 @@ Note:
 
 ### General Responsibilities
 
-All the funds specified in sections below can only be used for activities that are directly related
-to Computerization. It is strictly prohibited to use them for personal purposes or other clubs.
-
-Sam must be informed about how these funds are being used monthly. This requirement can be fulfilled
-by inviting Sam to a group chat about fund allocation or making the information available on
-Computerization website.
-
-To avoid abuse of the fund of club leaders, every member should be informed about the existence of
-this sponsorship, and members have the right to question the usage of the fund and ways to
-anonymously report to Sam about concerns without concerns of retaliation.
+Sam must be informed about how these funds are being used. To avoid abuse of the fund of club
+leaders, every member should be informed about the existence of this sponsorship, and members have
+the right to question the usage of the fund and ways to anonymously report to Sam about concerns
+without concerns of retaliation.
 
 There will likely be unused budgets at the end of the academic year. The remaining money must be
 securely transferred to the next Computerization leader.
+
+### Blanket Fund
+
+As long as Computerization follows the basic terms, it will receive $200 with no other conditions
+attached.
 
 ### Prioritized Referrals
 
@@ -52,10 +51,9 @@ future.
 
 ### Technical Consulting
 
-Feel free to ask Sam about technical decisions while he is not doing his internship. The questions
-may include architecture, static typing, technical stack, development best practices, etc. However,
-Sam will not answer questions about club management issues, like how to deal with the school’s
-administrator, unmotivated members, low morale, etc.
+Feel free to ask Sam about technical decisions while he is not doing his internship. Sam is
+committed to answer any questions at least once a week. However, it's not guaranteed that Sam's
+advice will be applicable to Computerization.
 
 ### Personal Website Cost Reimbursement
 
@@ -79,46 +77,45 @@ All allowed items in [`APPROVED_REIMBURSEMENT_LIST.md`](./APPROVED_REIMBURSEMENT
 fully reimbursed. However, Computerization members must make some faithful attempt to minimize the
 cost.
 
+### Swags
+
+Active contributors of Computerization is eligible to get free swags like
+[octoplush](https://github.myshopify.com/collections/collectibles/products/octoplush).
+
 ### Encouragement Funds
 
-These encouragement funds will be directly given as reimbursements to 3 top contributors to
-Computerization projects, with ratio 4:3:3. Receivers can only spend these funds on personal
-CS-related development, such as building personal websites, doing machine learning experiment, or
-playing with Kubernetes clusters in the cloud.
+The sub-sections below describes qualifications for each categories of encouragement funds. A member
+can be simutaneously qualified to multiple categories and receive funds from them.
 
-#### Better Infrastructure Encouragement Fund
+The qualifications will be evaluated in each semester. If a member is qualified in one semester for
+a category of encouragement fund, he/she will receive $100. If a member is qualified for a certain
+category of encouragement fund for both semesters in a year, he/she will receive an additional $50
+bonus.
 
-Computerization will receive $100 amount of fund for all completed items below. If they are partially
-enforced, then Computerization will receive $40.
+#### Engineering Team Encouragement Fund
 
-- Linter/auto formatter has been correctly set up to enforce code style.
-- Members have their GitHub account two-factor authenticated.
-- Each commit is GPG signed.
-- Continuous integration that tests non-trivial properties of programs.
-- Continuous deployment that deploys every merged pull request (master branch) to the staging
-  environment.
+Achieve either of the following in one semester:
 
-#### Better Engineering Encouragement Fund
+- Implemented at least 3 features for the app Computerization is building;
+- Created a functional personal project that is open sourced;
+- Consistently helped build and maintain infrastructure for Computerization;
+- Delivered at least two high quality internal presentations on software engineering topics and
+  published the slides on the Computerization website.
 
-If Computerization can enforce the following list of practices over 90% of the time, then
-Computerization will receive $100. If they are enforced over half of the time, then Computerization
-will receive $40.
+#### Algorithm Team Encouragement Fund
 
-- GitHub branch protection: No one can commit to the master branch without at least one pull request
-  approval.
-- No pull requests that fail CI tests can be merged. Having zero or only trivial CI tests do not
-  count as completion of this item.
-- Computerization can maintain its official website and have a blog that proudly documents its
-  engineering practices.
-- README and CHANGELOG of Computerization repositories have been constantly maintained.
+Achieve either of the following in one semester:
 
-#### Cleaner Codebase Encouragement Fund
+- Participated in 6 online coding contest in a semester or passed 50 or more coding challenges with
+  difficulty equivalent to to higher than leetcode medium level;
+- Published at least 2 well written internal algorithm lession notes on Computerization website.
 
-Computerization will receive $100 for each completed item below:
+#### AI Team Encouragement Fund
 
-- Have over 70% of type coverage for one part of the codebase.
+- Had significant contributions to Computerization AI project;
+- Delivered at least two high quality internal presentations on machine learning topics and publish
+  the slides on the Computerization website.
 
-### Random Activity Funds
+#### Design Encouragement Fund
 
-Computerization will get up to $100 to hold whatever the team event they like. A team event is
-defined as an event that only and at least three Computerization members attend.
+- Produced high quality design mocks that considers various edge cases.
