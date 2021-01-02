@@ -23,4 +23,4 @@ file via a GPG signed commit.
   operating cost reimbursements for Computerization.
 - [`SIGNATURE.txt`](/SIGNATURE.txt) lists the GitHub IDs of people who signed the document. Signing
   in that file expresses your approval of this agreement and it is a prerequisite to make
-  modifications to _  other files.
+  modifications to other files.
