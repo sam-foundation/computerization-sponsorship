@@ -11,6 +11,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.json"),
+          routeBasePath: "/",
           editUrl: "https://github.com/sam-foundation/computerization-sponsorship/edit/master/",
         },
         theme: {

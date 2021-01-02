@@ -7,24 +7,6 @@
     },
     "items": [
       {
-        "to": "docs/basic-conditions",
-        "activeBasePath": "docs/basic-conditions",
-        "label": "Basic Conditions",
-        "position": "left"
-      },
-      {
-        "to": "docs/benefits",
-        "activeBasePath": "docs/benefits",
-        "label": "Benefits",
-        "position": "left"
-      },
-      {
-        "to": "docs/approved-reimbursement-list",
-        "activeBasePath": "docs/approved-reimbursement-list",
-        "label": "Approved Reimbursement List",
-        "position": "left"
-      },
-      {
         "href": "https://github.com/facebook/docusaurus",
         "label": "GitHub",
         "position": "right"
@@ -38,16 +20,20 @@
         "title": "Agreement",
         "items": [
           {
+            "label": "Introduction",
+            "to": "/"
+          },
+          {
             "label": "Basic Conditions",
-            "to": "docs/basic-conditions"
+            "to": "basic-conditions"
           },
           {
             "label": "Benefits and The Revision Process",
-            "to": "docs/benefits"
+            "to": "benefits"
           },
           {
             "label": "Approved Reimbursement List",
-            "to": "docs/approved-reimbursement-list"
+            "to": "approved-reimbursement-list"
           }
         ]
       },

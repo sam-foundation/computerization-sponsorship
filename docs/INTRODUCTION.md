@@ -1,5 +1,7 @@
 ---
+id: introduction
 title: Computerization Sponsorship Document
+slug: /
 hide_table_of_contents: true
 ---
 
@@ -14,12 +16,12 @@ file via a GPG signed commit.
 
 ## Files
 
-- [Basic Conditions](/docs/basic-conditions) specifies a list of conditions that Computerization
+- [Basic Conditions](/basic-conditions) specifies a list of conditions that Computerization
   must agree and enforce consistently.
-- [Benefits and The Revision Process](/docs/benefits) specifies a list of benefits that
+- [Benefits and The Revision Process](/benefits) specifies a list of benefits that
   Computerization can receive. Some benefits can only be claimed by enforcing certain good
   engineering practices.
-- [Approved Reimbursement List](/docs/approved-reimbursement-list) specifies a list of eligible
+- [Approved Reimbursement List](/approved-reimbursement-list) specifies a list of eligible
   operating cost reimbursements for Computerization.
 - [`SIGNATURE.txt`](/SIGNATURE.txt) lists the GitHub IDs of people who signed the document. Signing
   in that file expresses your approval of this agreement and it is a prerequisite to make
