@@ -4,7 +4,7 @@ from typing import Optional, Iterable
 
 
 def _get_signatures() -> Iterable[str]:
-    with open("SIGNATURE", "r") as signature_file:
+    with open("static/SIGNATURE.txt", "r") as signature_file:
         return [line.strip() for line in signature_file.readlines()]
 
 

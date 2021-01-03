@@ -1,0 +1,73 @@
+{
+  "navbar": {
+    "title": "Computerization Sponsorship",
+    "logo": {
+      "alt": "devsam logo",
+      "src": "https://developersam.com/logo.png"
+    },
+    "items": [
+      {
+        "href": "https://github.com/facebook/docusaurus",
+        "label": "GitHub",
+        "position": "right"
+      }
+    ]
+  },
+  "footer": {
+    "style": "dark",
+    "links": [
+      {
+        "title": "Agreement",
+        "items": [
+          {
+            "label": "Introduction",
+            "to": "/"
+          },
+          {
+            "label": "Basic Conditions",
+            "to": "basic-conditions"
+          },
+          {
+            "label": "Benefits and The Revision Process",
+            "to": "benefits"
+          },
+          {
+            "label": "Approved Reimbursement List",
+            "to": "approved-reimbursement-list"
+          }
+        ]
+      },
+      {
+        "title": "Involved Parties",
+        "items": [
+          {
+            "label": "Developer Sam",
+            "href": "https://developersam.com"
+          },
+          {
+            "label": "Computerization",
+            "href": "https://computerization.io"
+          }
+        ]
+      },
+      {
+        "title": "More",
+        "items": [
+          {
+            "label": "Website GitHub",
+            "href": "https://github.com/sam-foundation/computerization-sponsorship"
+          },
+          {
+            "label": "Developer Sam GitHub",
+            "href": "https://github.com/SamChou19815"
+          },
+          {
+            "label": "Computerization GitHub",
+            "href": "https://github.com/Computerization"
+          }
+        ]
+      }
+    ],
+    "copyright": "Copyright © 2019-2021 Sam Foundation. Built with Docusaurus."
+  }
+}

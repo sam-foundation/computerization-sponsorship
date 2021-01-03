@@ -1,4 +1,7 @@
-# Basic Conditions
+---
+id: basic-conditions
+title: Basic Conditions
+---
 
 Failure to comply with the following stated terms in this section means **immediate** termination of
 sponsorship.

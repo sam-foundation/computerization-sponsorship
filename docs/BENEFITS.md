@@ -1,4 +1,7 @@
-# Benefits and The Revision Process
+---
+id: benefits
+title: Benefits and The Revision Process
+---
 
 ## Revision Process
 
