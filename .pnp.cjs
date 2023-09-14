@@ -3655,7 +3655,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "ua-parser-js",\
-        "npm:0.7.28"\
+        "npm:0.7.36"\
       ],\
       [\
         "unherit",\
@@ -12187,7 +12187,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["object-assign", "npm:4.1.1"],\
             ["promise", "npm:7.3.1"],\
             ["setimmediate", "npm:1.0.5"],\
-            ["ua-parser-js", "npm:0.7.28"]\
+            ["ua-parser-js", "npm:0.7.36"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -18533,10 +18533,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["ua-parser-js", [\
-        ["npm:0.7.28", {\
-          "packageLocation": "./.yarn/cache/ua-parser-js-npm-0.7.28-83c4e4d878-a7da4ad545.zip/node_modules/ua-parser-js/",\
+        ["npm:0.7.36", {\
+          "packageLocation": "./.yarn/cache/ua-parser-js-npm-0.7.36-3726f9ef73-04e18e7f6b.zip/node_modules/ua-parser-js/",\
           "packageDependencies": [\
-            ["ua-parser-js", "npm:0.7.28"]\
+            ["ua-parser-js", "npm:0.7.36"]\
           ],\
           "linkType": "HARD"\
         }]\
