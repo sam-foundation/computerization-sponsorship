@@ -1520,7 +1520,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "cross-fetch",\
-        "npm:3.1.4"\
+        "npm:3.1.8"\
       ],\
       [\
         "cross-spawn",\
@@ -2668,7 +2668,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "node-fetch",\
-        "npm:2.6.1"\
+        "virtual:71c3c0570974c795b79987bb85d4a29514e196f75c7ca2bb56e80f88177e71cbbb73c9a0f02e781c6ccd33e5e8542eb2d0a05fb7aad876eea2872ec6993aa554#npm:2.7.0"\
       ],\
       [\
         "node-forge",\
@@ -3622,6 +3622,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         "npm:3.0.1"\
       ],\
       [\
+        "tr46",\
+        "npm:0.0.3"\
+      ],\
+      [\
         "trim",\
         "npm:0.0.1"\
       ],\
@@ -3830,6 +3834,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         "npm:1.1.4"\
       ],\
       [\
+        "webidl-conversions",\
+        "npm:3.0.1"\
+      ],\
+      [\
         "webpack",\
         "virtual:5fb666ae4d857d3f6ffd78132b5535fb71aa7dc407b132c7dd70a9534c1e4793fdd99b211ec81dc1917371f054fbec1ed915b40dbce7f3da440301a560ce8a06#npm:5.88.2"\
       ],\
@@ -3864,6 +3872,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       [\
         "websocket-extensions",\
         "npm:0.1.4"\
+      ],\
+      [\
+        "whatwg-url",\
+        "npm:5.0.0"\
       ],\
       [\
         "which",\
@@ -11003,11 +11015,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["cross-fetch", [\
-        ["npm:3.1.4", {\
-          "packageLocation": "./.yarn/cache/cross-fetch-npm-3.1.4-45e4517cba-2107e5e633.zip/node_modules/cross-fetch/",\
+        ["npm:3.1.8", {\
+          "packageLocation": "./.yarn/cache/cross-fetch-npm-3.1.8-71c3c05709-78f993fa09.zip/node_modules/cross-fetch/",\
           "packageDependencies": [\
-            ["cross-fetch", "npm:3.1.4"],\
-            ["node-fetch", "npm:2.6.1"]\
+            ["cross-fetch", "npm:3.1.8"],\
+            ["node-fetch", "virtual:71c3c0570974c795b79987bb85d4a29514e196f75c7ca2bb56e80f88177e71cbbb73c9a0f02e781c6ccd33e5e8542eb2d0a05fb7aad876eea2872ec6993aa554#npm:2.7.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -12181,7 +12193,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/fbjs-npm-3.0.0-938b39511d-85ec57d8db.zip/node_modules/fbjs/",\
           "packageDependencies": [\
             ["fbjs", "npm:3.0.0"],\
-            ["cross-fetch", "npm:3.1.4"],\
+            ["cross-fetch", "npm:3.1.8"],\
             ["fbjs-css-vars", "npm:1.0.2"],\
             ["loose-envify", "npm:1.4.0"],\
             ["object-assign", "npm:4.1.1"],\
@@ -14750,10 +14762,24 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["node-fetch", [\
-        ["npm:2.6.1", {\
-          "packageLocation": "./.yarn/cache/node-fetch-npm-2.6.1-46c670dbc1-91075bedd5.zip/node_modules/node-fetch/",\
+        ["npm:2.7.0", {\
+          "packageLocation": "./.yarn/cache/node-fetch-npm-2.7.0-587d57004e-d76d2f5edb.zip/node_modules/node-fetch/",\
           "packageDependencies": [\
-            ["node-fetch", "npm:2.6.1"]\
+            ["node-fetch", "npm:2.7.0"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:71c3c0570974c795b79987bb85d4a29514e196f75c7ca2bb56e80f88177e71cbbb73c9a0f02e781c6ccd33e5e8542eb2d0a05fb7aad876eea2872ec6993aa554#npm:2.7.0", {\
+          "packageLocation": "./.yarn/__virtual__/node-fetch-virtual-749a5a9668/0/cache/node-fetch-npm-2.7.0-587d57004e-d76d2f5edb.zip/node_modules/node-fetch/",\
+          "packageDependencies": [\
+            ["node-fetch", "virtual:71c3c0570974c795b79987bb85d4a29514e196f75c7ca2bb56e80f88177e71cbbb73c9a0f02e781c6ccd33e5e8542eb2d0a05fb7aad876eea2872ec6993aa554#npm:2.7.0"],\
+            ["@types/encoding", null],\
+            ["encoding", null],\
+            ["whatwg-url", "npm:5.0.0"]\
+          ],\
+          "packagePeers": [\
+            "@types/encoding",\
+            "encoding"\
           ],\
           "linkType": "HARD"\
         }]\
@@ -18392,6 +18418,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["tr46", [\
+        ["npm:0.0.3", {\
+          "packageLocation": "./.yarn/cache/tr46-npm-0.0.3-de53018915-726321c5ea.zip/node_modules/tr46/",\
+          "packageDependencies": [\
+            ["tr46", "npm:0.0.3"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["trim", [\
         ["npm:0.0.1", {\
           "packageLocation": "./.yarn/cache/trim-npm-0.0.1-d138075543-2b4646dff9.zip/node_modules/trim/",\
@@ -19032,6 +19067,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["webidl-conversions", [\
+        ["npm:3.0.1", {\
+          "packageLocation": "./.yarn/cache/webidl-conversions-npm-3.0.1-60310f6a2b-c92a0a6ab9.zip/node_modules/webidl-conversions/",\
+          "packageDependencies": [\
+            ["webidl-conversions", "npm:3.0.1"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["webpack", [\
         ["npm:5.88.2", {\
           "packageLocation": "./.yarn/cache/webpack-npm-5.88.2-38717ace6f-79476a782d.zip/node_modules/webpack/",\
@@ -19266,6 +19310,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/websocket-extensions-npm-0.1.4-be839a9e56-5976835e68.zip/node_modules/websocket-extensions/",\
           "packageDependencies": [\
             ["websocket-extensions", "npm:0.1.4"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["whatwg-url", [\
+        ["npm:5.0.0", {\
+          "packageLocation": "./.yarn/cache/whatwg-url-npm-5.0.0-374fb45e60-b8daed4ad3.zip/node_modules/whatwg-url/",\
+          "packageDependencies": [\
+            ["whatwg-url", "npm:5.0.0"],\
+            ["tr46", "npm:0.0.3"],\
+            ["webidl-conversions", "npm:3.0.1"]\
           ],\
           "linkType": "HARD"\
         }]\
