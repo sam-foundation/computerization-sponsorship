@@ -2600,7 +2600,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "minimist",\
-        "npm:1.2.5"\
+        "npm:1.2.8"\
       ],\
       [\
         "minipass",\
@@ -14560,10 +14560,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["minimist", [\
-        ["npm:1.2.5", {\
-          "packageLocation": "./.yarn/cache/minimist-npm-1.2.5-ced0e1f617-86706ce5b3.zip/node_modules/minimist/",\
+        ["npm:1.2.8", {\
+          "packageLocation": "./.yarn/cache/minimist-npm-1.2.8-d7af7b1dce-75a6d645fb.zip/node_modules/minimist/",\
           "packageDependencies": [\
-            ["minimist", "npm:1.2.5"]\
+            ["minimist", "npm:1.2.8"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -16555,7 +16555,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["rc", "npm:1.2.8"],\
             ["deep-extend", "npm:0.6.0"],\
             ["ini", "npm:1.3.8"],\
-            ["minimist", "npm:1.2.5"],\
+            ["minimist", "npm:1.2.8"],\
             ["strip-json-comments", "npm:2.0.1"]\
           ],\
           "linkType": "HARD"\
@@ -19004,7 +19004,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["axios", "npm:0.25.0"],\
             ["joi", "npm:17.10.1"],\
             ["lodash", "npm:4.17.21"],\
-            ["minimist", "npm:1.2.5"],\
+            ["minimist", "npm:1.2.8"],\
             ["rxjs", "npm:7.8.1"]\
           ],\
           "linkType": "HARD"\
