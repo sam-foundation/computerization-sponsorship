@@ -13,6 +13,9 @@ def _check_signed() -> bool:
     if not github_actor:
         print("Missing GitHub Actor!")
         return False
+    if github_actor == "dependabot":
+        print("dependabot is exempt from signature.")
+        return True
     for signature in _get_signatures():
         if signature == github_actor:
             print("You are all set!")
