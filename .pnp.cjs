@@ -2712,7 +2712,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "nth-check",\
-        "npm:2.0.0"\
+        "npm:2.1.1"\
       ],\
       [\
         "number-is-nan",\
@@ -11146,7 +11146,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["css-what", "npm:5.0.1"],\
             ["domhandler", "npm:4.2.0"],\
             ["domutils", "npm:2.7.0"],\
-            ["nth-check", "npm:2.0.0"]\
+            ["nth-check", "npm:2.1.1"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -14879,14 +14879,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["nth-check", [\
-        ["npm:2.0.0", {\
-          "packageLocation": "./.yarn/cache/nth-check-npm-2.0.0-d92071ce70-a22eb19616.zip/node_modules/nth-check/",\
-          "packageDependencies": [\
-            ["nth-check", "npm:2.0.0"],\
-            ["boolbase", "npm:1.0.0"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:2.1.1", {\
           "packageLocation": "./.yarn/cache/nth-check-npm-2.1.1-f97afc8169-5afc3dafcd.zip/node_modules/nth-check/",\
           "packageDependencies": [\
